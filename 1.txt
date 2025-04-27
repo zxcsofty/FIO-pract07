@@ -1,1 +1,6 @@
-fix in 1.txt�
+<<<<<<< HEAD
+MY fix in 1.txt
+=======
+My fix in 1.txt
+>>>>>>> branch_2
+Новое содержимоев
